@@ -14,6 +14,6 @@ Follow me on other platforms to stay up to date with what I do (or say *hi*)!
 
 **-** DEV: [daniguardiola](https://dev.to/daniguardiola)
 
-Thanks 🌈
+**-** Medium: [@DaniGuardiola](https://medium.com/@DaniGuardiola)
 
-> Note: I'm currently setting up my website and cleaning up my Github and social profiles, so expect some level of messiness until I can get everything 100% sorted out ☺️
+Thanks 🌈
