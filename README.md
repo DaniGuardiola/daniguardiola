@@ -2,7 +2,7 @@
 
 My name is Dani and I'm a 23 years old musician and software engineer from Spain.
 
-![Me](./me.jpg)
+![Me](https://github.com/DaniGuardiola/daniguardiola/raw/master/me.jpg)
 
 I have a passion for music, interface design, engineering, free software (as in freedom) and more. I'm always looking forward to learn and experiment with new things (music genres, technologies, ideas...). That's why I try to do so many different and unrelated things. It's also _very fun_.
 
