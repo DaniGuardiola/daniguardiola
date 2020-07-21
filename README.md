@@ -20,4 +20,4 @@ I'm also on social media and other platforms!
 
 **-** Medium: [@DaniGuardiola](https://medium.com/@DaniGuardiola)
 
-Say hi 👋! Hit me up on social media or write me at [hi@daniguardiola.me](mailto:hi@daniguardiola.me).
+Say hi 👋! Hit me up on social media or write to me at [hi@daniguardiola.me](mailto:hi@daniguardiola.me).
