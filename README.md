@@ -1,23 +1,33 @@
-### Hey there 🙂
+Hi! I'm Dani, a **musician** and **software engineer** from Spain.
 
-My name is Dani and I'm a 23 years old musician and software engineer from Spain.
+![Me](/me.png)
 
-![Me](https://github.com/DaniGuardiola/daniguardiola/raw/master/me.png)
+# **>** [daniguardio.la](https://daniguardio.la/)
 
-I have a passion for music, interface design, engineering, free software (as in freedom) and more. I'm always looking forward to learn and experiment with new things (music genres, technologies, ideas...). That's why I try to do so many different and unrelated things. It's also _very fun_.
+**I know** a little bit about a lot of things.
+
+Some of the stuff **I love** includes music, engineering, interface design, free software (as in freedom), reverse-engineering, and not taking things seriously. _Cats_, too.
+
+**I do** many unrelated things all the time, mostly for learning and _fun_.
 
 ---
 
-**>** [daniguardiola.me](https://daniguardiola.me/)
+### Check these out
 
-I'm also on social media and other platforms!
+- 📓 [**Blog**](https://daniguardio.la/blog)**:** shit I write.
+- 🔧 **Projects:** shit I've built (coming soon).
+- 🔬 **Lab:** shit I'm working on (coming soon).
+- 📦 **Archive:** old yet interesting shit (coming soon).
 
-**-** Twitter: [@daniguardiolame](https://twitter.com/daniguardiolame)
+<!-- - 🔧 [**Projects**](/projects)**:** shit I've built. -->
+<!-- - 🔬 [**Lab**](/lab)**:** shit I'm working on. -->
+<!-- - 📦 [**Archive**](/archive)**:** old but interesting shit. -->
 
-**-** Instagram: [daniguardiola.me](https://www.instagram.com/daniguardiola.me/)
+### Find me elsewhere
 
-**-** DEV: [daniguardiola](https://dev.to/daniguardiola)
+- **Twitter:** [@daniguardio_la](https://twitter.com/daniguardio_la)
+- **DEV:** [daniguardiola](https://dev.to/daniguardiola)
+- **Instagram:** [daniguardiola.me](https://instagram.com/daniguardio.la)
+- **Medium:** [@DaniGuardiola](https://medium.com/@DaniGuardiola)
 
-**-** Medium: [@DaniGuardiola](https://medium.com/@DaniGuardiola)
-
-Say hi 👋! Hit me up on social media or write to me at [hi@daniguardiola.me](mailto:hi@daniguardiola.me).
+Say hi 👋! Hit me up on social media or write to me at [hi@daniguardio.la](mailto:hi@daniguardio.la) (PGP key: [pgp.daniguardio.la](https://pgp.daniguardio.la)).
