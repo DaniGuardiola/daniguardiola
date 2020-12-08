@@ -14,7 +14,7 @@ Some of the stuff **I love** includes music, engineering, interface design, free
 
 ### Check these out
 
-- 📓 [**Blog**](https://daniguardio.la/blog)**:** shit I write.
+- 📓 [**Blog**](https://daniguardio.la/)**:** shit I write.
 - 🔧 **Projects:** shit I've built (coming soon).
 - 🔬 **Lab:** shit I'm working on (coming soon).
 - 📦 **Archive:** old yet interesting shit (coming soon).
