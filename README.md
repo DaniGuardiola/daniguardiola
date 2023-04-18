@@ -1,33 +1,19 @@
-Hi! I'm Dani, a **musician** and **software engineer** from Spain.
+# Dani Guardiola
 
-![Me](/me.png)
+![me](./me.webp)
 
-# **>** [daniguardio.la](https://daniguardio.la/)
+## > I blog at [dio.la](https://dio.la)
 
-**I know** a little bit about a lot of things.
+Thanks for visiting my profile! Some quick facts about me:
 
-Some of the stuff **I love** includes music, engineering, interface design, free software (as in freedom), reverse-engineering, and not taking things seriously. _Cats_, too.
+- **Design system developer** and LLM tamer (among other things) at [create](https://create.xyz/).
+- **Math and physics student** at UGR (University of Granada, Spain).
+- Very into **music**, although I don't have much time to practice or study these days!
+- Born and based in **Spain**. I love traveling and work remotely from different locations.
+- Always having **fun**, always **learning**, always **building**.
+- Advocate for **free and open source software and hardware**, **right to repair**, and **privacy**.
+- **Kindness** over profit. **Collaboration** over competition. **Building for humans** over building for money.
 
-**I do** many unrelated things all the time, mostly for learning and _fun_.
+Find me on [Twitter](https://twitter.com/daniguardio_la) or email me at [hi@daniguardio.la](mailto:hi@daniguardio.la).
 
----
-
-### Check these out
-
-- 📓 [**Blog**](https://daniguardio.la/)**:** shit I write.
-- 🔧 **Projects:** shit I've built (coming soon).
-- 🔬 **Lab:** shit I'm working on (coming soon).
-- 📦 **Archive:** old shit (coming soon).
-
-<!-- - 🔧 [**Projects**](/projects)**:** shit I've built. -->
-<!-- - 🔬 [**Lab**](/lab)**:** shit I'm working on. -->
-<!-- - 📦 [**Archive**](/archive)**:** old but interesting shit. -->
-
-### Find me elsewhere
-
-- **Twitter:** [@daniguardio_la](https://twitter.com/daniguardio_la)
-- **DEV:** [daniguardiola](https://dev.to/daniguardiola)
-- **Instagram:** [daniguardiola.me](https://instagram.com/daniguardio.la)
-- **Medium:** [@DaniGuardiola](https://medium.com/@DaniGuardiola)
-
-Say hi 👋! Hit me up on social media or write to me at [hi@daniguardio.la](mailto:hi@daniguardio.la) (PGP key: [pgp.daniguardio.la](https://pgp.daniguardio.la)).
+Also check my blog out at [dio.la](https://dio.la)! I try ~~and fail~~ to keep it updated with my latest projects and thoughts.
