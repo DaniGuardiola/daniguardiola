@@ -1,5 +1,7 @@
 # Dani Guardiola
 
+Software engineer and student of a double bachelor's degree in math and physics.
+
 ![me](./me.webp)
 
 ## > I blog at [dio.la](https://dio.la)
