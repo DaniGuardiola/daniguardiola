@@ -10,7 +10,7 @@ Thanks for visiting my profile! Some quick facts about me:
 
 - **Design system developer** and AI tamer (among other things) at [create](https://create.xyz/).
 - **Math and physics student** at UGR (University of Granada, Spain).
-- Very into **music**, although I don't have much time to practice or study these days!
+- Very into **music**, although I don't have much time to jam these days!
 - Born and based in **Spain**. I love traveling and work remotely from different locations.
 - Always having **fun**, always **learning**, always **building**.
 - Advocate for **free and open source** software and hardware, the **right to repair**, and **privacy**.
