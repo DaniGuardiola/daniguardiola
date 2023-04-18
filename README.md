@@ -13,7 +13,7 @@ Thanks for visiting my profile! Some quick facts about me:
 - Very into **music**, although I don't have much time to practice or study these days!
 - Born and based in **Spain**. I love traveling and work remotely from different locations.
 - Always having **fun**, always **learning**, always **building**.
-- Advocate for **free and open source software and hardware**, **right to repair**, and **privacy**.
+- Advocate for **free and open source** software and hardware, the **right to repair**, and **privacy**.
 - **Kindness** over profit. **Collaboration** over competition. **Building for humans** over building for money.
 
 Find me on [Twitter](https://twitter.com/daniguardio_la) or email me at [hi@daniguardio.la](mailto:hi@daniguardio.la).
