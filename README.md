@@ -1,6 +1,6 @@
 # Dani Guardiola
 
-Software engineer and student of a double bachelor's degree in math and physics.
+Software engineer, math and physics student.
 
 ![me](./me.webp)
 
