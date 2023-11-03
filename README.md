@@ -8,7 +8,6 @@ Software engineer, math and physics student.
 
 Thanks for visiting my profile! Some quick facts about me:
 
-- 🎨 **Design system developer** and LLM tamer (among other things) at [create](https://create.xyz/).
 - 🎓 **Math and physics student** at UGR (University of Granada, Spain).
 - 🎵 Very into **music**, although I don't have much time to jam these days!
 - 🌍 Born and based in **Spain**. I love traveling and often work remotely from different locations.
