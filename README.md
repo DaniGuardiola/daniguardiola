@@ -8,6 +8,7 @@ Software engineer, math and physics student.
 
 Thanks for visiting my profile! Some quick facts about me:
 
+- 🎨 **Software developer** specialized in frontend and design systems.
 - 🎓 **Math and physics student** at UGR (University of Granada, Spain).
 - 🎵 Very into **music**, although I don't have much time to jam these days!
 - 🌍 Born and based in **Spain**. I love traveling and often work remotely from different locations.
