@@ -2,7 +2,7 @@
 
 eng manager for [Proton Docs](https://proton.me/drive/docs) and [Proton Sheets](https://proton.me/drive/sheets), writing about software at [dio.la](https://dio.la)
 
-<img width="9999"  alt="outer wilds banner" src="https://github.com/user-attachments/assets/1d7887e7-b3fb-4ffb-8ac3-c595419eadfb" />
+<img width="9999"  alt="outer wilds banner" src="./outer-wilds.png" />
 
 thanks for visiting my profile! say hi:
 
