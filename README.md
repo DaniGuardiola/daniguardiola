@@ -1,17 +1,10 @@
-# Dani Guardiola
+# dani guardiola
 
-Software engineer, math and physics enthusiast.
+eng manager for [Proton Docs](https://proton.me/drive/docs) and [Proton Sheets](https://proton.me/drive/sheets), writing about software at [dio.la](https://dio.la)
 
-**I blog at [dio.la](https://dio.la)**
+<img width="9999"  alt="outer wilds banner" src="https://github.com/user-attachments/assets/1d7887e7-b3fb-4ffb-8ac3-c595419eadfb" />
 
-Thanks for visiting my profile! Some quick facts about me:
+thanks for visiting my profile! say hi:
 
-- 🎨 **Software developer** specialized in web development and design systems.
-- 🎓 **Math and physics part-time student** at UGR (University of Granada, Spain).
-- 🎵 **Music lover**, although I don't have much time to jam these days!
-- 🌍 Born and based in **Spain**. I love traveling and often work remotely from different locations.
-- 💙 Always having **fun**, always **learning**, always **building**.
-- ✊🏽 Advocate for **free and open source** software and hardware, the **right to repair**, and **privacy**.
-- 🌱 **Kindness** over profit. **Collaboration** over competition. **Building for humans** over building for money.
-
-Reach me: [@daniguardio_la](https://twitter.com/daniguardio_la) / [hi@daniguardio.la](mailto:hi@daniguardio.la) (PGP public key: [pgp.dio.la](https://pgp.dio.la/)).
+- bsky [@dio.la](https://bsky.app/profile/dio.la) / twitter [@daniguardio_la](https://twitter.com/daniguardio_la)
+- [github.contact@alias.dio.la](mailto:github.contact@alias.dio.la) - public key at [pgp.dio.la](https://pgp.dio.la/)
